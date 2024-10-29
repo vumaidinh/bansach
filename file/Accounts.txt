@@ -1,0 +1,2 @@
+ADMIN1;adminADMIN1;1@aA
+STAFF1;nhanvienSTAFF1;1@aA

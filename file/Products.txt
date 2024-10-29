@@ -1,0 +1,11 @@
+Digital;ASUS;Asus Vivobook 2023;DGT1;20000000;110;100
+Digital;LG;Tivi LG;DGT2;4000000;110;100
+Digital;Samsung;Samsung A50;DGT3;15000000;4000;100
+Physical;Hades;Ao thun;PSC1;400000;M;Den;100
+Physical;Hades;Quan Short;PSC2;300000;L;Xanh;100
+Physical;Hades;Quan Jean;PSC3;350000;M;Den;100
+Food;Chups chups;Keo deo;FD1;50000;100
+Food;Vonka;Chocolate;FD2;55000;100
+Food;HaoHao;Mi goi;FD3;7000;100
+Food;AAAAAAAAA;FOOOOOOOODDD;FD10;11111;0
+Food;AAAAAA;FOOD;FD13;11111;0

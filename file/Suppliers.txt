@@ -1,0 +1,5 @@
+LG;0364523882;99-so 1-quan 1-Ho Chi Minh;LG@gmail.com;SPR1
+ASUS;0123456789;99-so 1-quan 1-Ho Chi Minh;asus@gmail.com;SPR2
+BM;03644746223;99-so 1-quan 1-Ho Chi Minh;bm@gmail.com;SPR3
+Hades;0922364121;99-so 1-quan 1-Ho Chi Minh;hades@gmail.com;SPR4
+Samsung;0357362937;99-so 1-quan 1-Ho Chi Minh;samsung@gmail.com;SPR5
